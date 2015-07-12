@@ -1,0 +1,46 @@
+Analise Diaria
+
+Relativamente a este time series detetamos uma tendencia de repeticao a cada 7 dias, o que presupoe uma sasonaliadade semanal.
+Podemos tambem repara que existem 2 picos de afluencia a loja, 1 no dia 10/06/2013 e outro no dia 14/12/2013. Tendo em conta a distribuição das entradas 
+na loja podemos tambem concluir que a loja é mais frequentada ao fim de semana.
+Devido a problemas tecnicos com a camera tivemos de fazer ajustes ao ficheiros de time series nos seguintes dias:
+eliminamos os dados relativos ao dia 08-04 pois nao se encontrava completo
+substituimos dados nos dias 09-05,18-06,27-09(dias imcompletos),15-06 a 17-06, 15-09 a 26-09, 08-5 dados a 0
+
+
+All
+
+Ts.pic
+hw.pic
+
+Homens
+
+Ts.pic
+hw.pic
+
+Mulheres
+
+Ts.pic
+hw.pic
+
+Unknown
+
+Ts.pic
+hw.pic
+
+Relativamente a estes dados podemos concluir que entram em media x pessoas por dia, x1% mulheres(x1 n), x2% homens(x2 n) e x3% de desconhecidos(x3 n).
+
+Previsoes
+
+1 day
+
+pics todas com os modelos
+
+
+Conclusoes:
+
+7 days
+
+pics todas com os modelos 
+
+Conclusoes:

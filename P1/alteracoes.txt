@@ -1,0 +1,5 @@
+eliminamos as horas do dia 08-04 pois nao se encontrava completo
+substituimos as horas 10:00 do dia 09-04 e as 21:00 do dia 22-12
+substituimos dados nos dias 09-05,18-06,27-09(dias imcompletos),15-06 a 17-06, 
+15-09 a 26-09, 08-5 dados a 0
+eliminamos o dia 22-12 na serie das horas
